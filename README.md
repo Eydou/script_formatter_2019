@@ -1,5 +1,5 @@
 # script_formatter_2019
-script_formatter_2019 EPITECH
+script_formatter_2019 EPITECH script formatter
 
 Project with <a href="https://github.com/LopesAlexis">Alexis Lopes</a>
 
