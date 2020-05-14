@@ -6,7 +6,7 @@ script_formatter_2019 EPITECH script formatter
 
 Write a shell script that pretty prints other shell scripts.
 
-![alt text](https://github.com/Eydou/script_formatter_2019/blob/master/note.png)
+note 15/20
 
 ## Authors
 
